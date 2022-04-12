@@ -1,11 +1,26 @@
 Vue component to display family tree.
 
 ## Installation
+### Clone & Install Packages
+```
+git clone https://github.com/mallikarjunan1351/family-tree.git
+
+cd family-tree
+```
 ### npm
 ```
+npm install
 npm install vue-family-tree --save
 ```
+
+### Run the application
+```
+npm run serve
+
+http://localhost:8080/family-tree/
+```
 ## Demo
+
 
 ## Usage
 ```html

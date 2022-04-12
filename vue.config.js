@@ -3,7 +3,7 @@ module.exports = {
         ? '/'
         : '/family-tree/',
     outputDir: process.env.NODE_ENV === 'production'
-        ? __dirname + '/lib'
+        ? __dirname + '/dist'
         : __dirname + '/demo',
     css: {
         extract: false
