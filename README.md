@@ -1,4 +1,14 @@
 Vue component to display family tree.
+## Implementation
+```
+UI Library - Vue JS
+Design System - BootstrapVue
+Add Person - Bootstrap Form
+Tree View - Vue Family Tree
+Add Tree - Vue Tree List
+Data Structure - Tree
+Unit Test - Jest
+```
 
 ## Installation
 ### Clone & Install Packages

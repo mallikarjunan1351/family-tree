@@ -1,10 +1,10 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-        ? '/'
-        : '/family-tree/',
+        ? '/family-tree'
+        : '/',
     outputDir: process.env.NODE_ENV === 'production'
         ? __dirname + '/dist'
-        : __dirname + '/demo',
+        : __dirname + '/index',
     css: {
         extract: false
     }
